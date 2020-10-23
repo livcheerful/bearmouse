@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "arcade-text": "github:microsoft/arcade-text#v1.3.0",
-        "animation": "*"
+        "animation": "*",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.0.12"
     },
     "files": [
         "main.blocks",
